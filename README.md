@@ -1,5 +1,5 @@
 # NLP-Clinical-Documentation
-### This repository contains the csv which contains the details of clinical documentation of patients and the working file
+### This repository contains the project based on the details of clinical documentation of patients with the working file.
 ### This dataset consists only a single column with text attributes. 
 ### I have applied text preprocessing techniques like removing punctuation, converting to lower case, lemmetization, stemmming and tokenization
 ### Libraries and functions learnt: string.punctuation, re, TFIdvectoriser
